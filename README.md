@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmust-know-topics-ethereum-blockchain-developer-seetharaman-gr&psig=AOvVaw0BZEuxbFzhV47BtTk4x9Dm&ust=1730276182912000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID9oJ2Ts4kDFQAAAAAdAAAAABAE)
+
 # 💫 About Me:
 🎓 3rd-year Statistics student at Gazi University<br>💻 Passionate about data analysis and blockchain development<br>🔗 Currently working with Solidity for blockchain projects<br>🚀 Interested in the intersection of crypto, data science, and Web3 technology<br>🌍 Eager to collaborate on innovative projects and expand my skills<br>🛠️ Enjoys tackling complex problems and developing creative solutions
 
