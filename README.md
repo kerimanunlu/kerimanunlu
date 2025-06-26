@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*NX4uFZfxt-OdQYHt)
+
 # 💫 About Me:
 🎓 3rd-year Statistics student at Gazi University<br>💻 Passionate about data analysis and blockchain development<br>🔗 Currently working with Solidity for blockchain projects<br>🚀 Interested in the intersection of crypto, data science, and Web3 technology<br>🌍 Eager to collaborate on innovative projects and expand my skills<br>🛠️ Enjoys tackling complex problems and developing creative solutions
 
