@@ -105,39 +105,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=kerimanunlu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kerimanunlu&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerimanunlu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/kerimanunlu/kerimanunlu/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# ✨ Profile Views
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=kerimanunlu&icon=0&color=6)
-
-</div>
-
----
 
 # 📌 Notes
 
